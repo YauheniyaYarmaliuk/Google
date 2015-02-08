@@ -1,0 +1,58 @@
+.main-title {
+	margin-top: 20px;
+	font-size: 50px;
+	text-align: center;
+}
+
+.l1 {
+	color: blue;
+}
+
+.l2 {
+	color: red;
+}
+
+.l3 {
+	color: yellow;
+}
+
+.l4 {
+	color: blue;
+}
+
+.l5 {
+	color: green;
+}
+
+.l6 {
+	color: red;
+}
+
+.main-input {
+	margin-top: 20px;
+	height: 20px;
+	width: 400px;
+}
+
+.main-form {
+	text-align: center;
+}
+
+.submit {
+	padding: 8px 12px;
+	margin: 7px;
+	font-size: 12px;
+	margin-top: 20px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	background: #eee;
+}
+
+.submit-wrapper {
+	text-align: center;
+}
+
+.submit:hover {
+	border: 1px solid #999;
+	border-bottom: 2px solid #999;
+}
